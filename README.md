@@ -9,8 +9,8 @@ Welcome to our FiN Canteen's website! Nestled in the heart of our vibrant campus
 Project is created with:
 * HTML5 (Structuring)
 * CSS3 (Styling)
-* Vanilla JavaScript (Functioning)
-* Firebase (oAuth & Stuff)
+* JavaScript (Functioning)
+* Firebase (Auth & Stuff)
 
 ## Setup
 * Just fork it.
