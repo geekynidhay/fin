@@ -385,7 +385,7 @@ function setOrderDetails(trimedEmailID){
                 var orderStatus = data[key].Order_Status
                 var trimedID = '';
                 var oid = 489725;
-                var orderID = 'UO' + oid;
+                var orderID = 'UO' + oid++;
 
                 // Creates Order ID
                 for (let j = 0; j < orderID.length; j++){
