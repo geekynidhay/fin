@@ -1,12 +1,13 @@
   // --- Authentication Part ---
   // Your web app's Firebase configuration
   var firebaseConfig = {
-    apiKey: "AIzaSyDBn5GMIvsqhTPMVAeylq-I_2R8SSJYzmI",
-    authDomain: "js-login-form.firebaseapp.com",
-    projectId: "js-login-form",
-    storageBucket: "js-login-form.appspot.com",
-    messagingSenderId: "1039987076182",
-    appId: "1:1039987076182:web:e51f940647b55c0cd7dff7",
+  apiKey: "AIzaSyAXJIXetf10jgsSYO91bt98FB-LfmajOlM",
+  authDomain: "finproject01.firebaseapp.com",
+  projectId: "finproject01",
+  storageBucket: "finproject01.appspot.com",
+  messagingSenderId: "77493343682",
+  appId: "1:77493343682:web:2a7c2582e1c2ae768eb25b",
+  measurementId: "G-GEWF3ZJYNS"
   };
   
   // Initialize Firebase
