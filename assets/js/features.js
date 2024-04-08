@@ -425,7 +425,7 @@ function setOrderDetails(trimedEmailID){
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td data-label= "Order ID">${trimedID}</td>
+                                    <td data-label= "Order ID">${orderID}</td>
                                     <td data-label= "Total">&#8377; ${total}</td>
                                     <td data-label= "Date">${date}</td>
                                     <td data-label= "Time">${time}</td>
