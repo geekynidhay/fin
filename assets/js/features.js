@@ -389,7 +389,7 @@ function setOrderDetails(trimedEmailID){
 
                 // Creates Order ID
                 for (let j = 0; j < orderID.length; j++){
-                    if (orderID[j] != ':' || orderID[j] != 'p' || orderID[j] != 'm' || orderID[j] != 'P' || orderID[j] != 'M' || orderID[j] != ' ' ){
+                    if (orderID[j] != ':' && orderID[j] != 'p' && orderID[j] != 'm' && orderID[j] != 'P' && orderID[j] != 'M' && orderID[j] != ' ' ){
                         trimedID += orderID[j]
                         
                     }
