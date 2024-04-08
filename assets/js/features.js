@@ -391,6 +391,7 @@ function setOrderDetails(trimedEmailID){
                 for (let j = 0; j < orderID.length; j++){
                     if (orderID[j] != '/'){
                         trimedID += orderID[j]
+                        oid += 1;
                     }
                 }
                 if (data[key].Order_Status === true){
