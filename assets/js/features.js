@@ -373,7 +373,7 @@ function setOrderDetails(trimedEmailID){
             console.log('Mummy');
             console.log(userOrder);
             // Get Encrytion Keys
-           
+            var userOrder = Object.keys(data)
 
             // Puts keys & extracts values -
             let i = 0
