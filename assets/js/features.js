@@ -371,7 +371,7 @@ function setOrderDetails(trimedEmailID){
             // Gets Data
             var data = snapshot.val();
             console.log('Mummy');
-            console.log(data);
+            console.log(userOrder);
             // Get Encrytion Keys
             var userOrder = Object.keys(data)
 
