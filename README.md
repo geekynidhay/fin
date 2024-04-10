@@ -25,3 +25,7 @@ To the extent possible under law, [Nidhay Rathore](https://github.com/geekynidha
 ## Link of this site
 <https://geekynidhay.github.io/fin/>
 
+## Admin Site Link
+
+<https://geekynidhay.github.io/fin/order.html>
+
