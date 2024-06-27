@@ -22,6 +22,10 @@ Project is created with:
 ## License
 To the extent possible under law, [Nidhay Rathore](https://github.com/geekynidhay) has waived all copyright and related or neighboring rights to this work.
 
+## Team Members 
+Nidhay Rathore 
+Naman Mandley 
+
 ## Link of this site
 <https://geekynidhay.github.io/fin/>
 
