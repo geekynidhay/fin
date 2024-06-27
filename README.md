@@ -24,7 +24,7 @@ To the extent possible under law, [Nidhay Rathore](https://github.com/geekynidha
 
 ## Team Members 
 * Nidhay Rathore 
-* Naman Mandley
+* [Naman Mandley(https://github.com/coolfool112)]
 * Rohit Modi 
 * Piyush Sinha
 * Himanshu Tiwari
