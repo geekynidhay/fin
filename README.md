@@ -23,8 +23,11 @@ Project is created with:
 To the extent possible under law, [Nidhay Rathore](https://github.com/geekynidhay) has waived all copyright and related or neighboring rights to this work.
 
 ## Team Members 
-Nidhay Rathore 
-Naman Mandley 
+* Nidhay Rathore 
+* Naman Mandley
+* Rohit Modi 
+* Piyush Sinha
+* Himanshu Tiwari
 
 ## Link of this site
 <https://geekynidhay.github.io/fin/>
