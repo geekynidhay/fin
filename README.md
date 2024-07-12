@@ -27,7 +27,7 @@ To the extent possible under law, [Nidhay Rathore](https://github.com/geekynidha
 * [Naman Mandley](https://github.com/coolfool112)
 * Rohit Modi 
 * Piyush Sinha
-* Himanshu Tiwari
+* [Himanshu Tiwari](https://github.com/iiamhimanshu)
 
 ## Link of this site
 <https://geekynidhay.github.io/fin/>
